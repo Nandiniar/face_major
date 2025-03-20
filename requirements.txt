@@ -1,0 +1,5 @@
+opencv-python
+deepface
+tf_keras
+tensorflow-intel==2.13.0
+
